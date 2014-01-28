@@ -1,0 +1,7 @@
+download jaunt from http://jsoup.org/download
+
+Read more on http://jsoup.org/cookbook/introduction/
+
+API http://jsoup.org/apidocs/
+
+More on scrapers http://stackoverflow.com/questions/3202305/web-scraping-with-java
